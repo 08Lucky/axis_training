@@ -1,9 +1,0 @@
-hello
-
-stash number 2
-
-stash 3
-
-changes made in the remote repo
-
-changes made in the local repo
